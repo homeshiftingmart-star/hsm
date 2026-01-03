@@ -137,9 +137,10 @@ This is a frontend-only demo application. The booking submission currently shows
 ## Contact
 
 For inquiries or support:
-- Phone: +91 98765 43210
+- Phone: +91 7836967003
 - Email: info@homeshiftingmart.com
 
 ---
 
 **Note**: This is a demo application created for demonstration purposes.
+
